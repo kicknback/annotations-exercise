@@ -1,7 +1,7 @@
 /**
  * This source file is subject to the license that is bundled with this package in the file LICENSE.
  */
-public class Person {
+class Person {
     protected String firstName;
     protected String lastName;
 
